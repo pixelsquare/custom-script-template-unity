@@ -1,0 +1,40 @@
+﻿//------------------------------------------------------------------------------
+// <copyright file="#SCRIPTNAME#.cs" company="#COMPANYNAME#">
+//    Copyright © #COPYRIGHTYEAR# #COMPANYNAME#
+// </copyright>
+// <author>%AUTHOR_NAME%</author>
+// <date>#CREATIONDATE#</date>
+// <summary> TODO: Describe the file's implementation overview here </summary>
+//------------------------------------------------------------------------------
+
+using UnityEngine;
+
+using System.Collections;
+using System.Collections.Generic;
+
+namespace #NAMESPACE#
+{
+	/// <summary>
+	/// TODO: Describe the class outline here
+	/// </summary>
+	/// <remarks> Detailed information about the class. </remarks>
+	public class #SCRIPTNAME# : MonoBehaviour 
+	{
+		/// <summary>
+		/// Use this for initialization
+		/// </summary>
+		public void Start() 
+		{
+			#NOTRIM#
+		}
+		
+		/// <summary>
+		/// Update is called once per frame
+		/// </summary>
+		public void Update() 
+		{
+			#NOTRIM#
+		}
+	}
+	
+} // namespace #NAMESPACE#
