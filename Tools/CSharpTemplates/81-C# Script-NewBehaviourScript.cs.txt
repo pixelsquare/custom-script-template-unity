@@ -14,27 +14,27 @@ using System.Collections.Generic;
 
 namespace #NAMESPACE#
 {
-	/// <summary>
-	/// TODO: Describe the class outline here
-	/// </summary>
-	/// <remarks> Detailed information about the class. </remarks>
-	public class #SCRIPTNAME# : MonoBehaviour 
-	{
-		/// <summary>
-		/// Use this for initialization
-		/// </summary>
-		public void Start() 
-		{
-			#NOTRIM#
-		}
-		
-		/// <summary>
-		/// Update is called once per frame
-		/// </summary>
-		public void Update() 
-		{
-			#NOTRIM#
-		}
-	}
-	
+    /// <summary>
+    /// TODO: Describe the class outline here
+    /// </summary>
+    /// <remarks> Detailed information about the class. </remarks>
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        /// <summary>
+        /// Use this for initialization
+        /// </summary>
+        public void Start()
+        {
+            #NOTRIM#
+        }
+
+        /// <summary>
+        /// Update is called once per frame
+        /// </summary>
+        public void Update()
+        {
+            #NOTRIM#
+        }
+    }
+
 } // namespace #NAMESPACE#
